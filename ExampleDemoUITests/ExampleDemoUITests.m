@@ -1,6 +1,6 @@
 //
-//  XYQRegexPatternDemoUITests.m
-//  XYQRegexPatternDemoUITests
+//  ExampleDemoUITests.m
+//  ExampleDemoUITests
 //
 //  Created by FanLei on 16/12/12.
 //  Copyright © 2016年 广州市东德网络科技有限公司. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface XYQRegexPatternDemoUITests : XCTestCase
+@interface ExampleDemoUITests : XCTestCase
 
 @end
 
-@implementation XYQRegexPatternDemoUITests
+@implementation ExampleDemoUITests
 
 - (void)setUp {
     [super setUp];
