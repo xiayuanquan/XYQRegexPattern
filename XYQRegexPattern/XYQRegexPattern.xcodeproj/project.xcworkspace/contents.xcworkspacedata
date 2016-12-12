@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:XYQRegexPatternDemo.xcodeproj">
+      location = "self:/Users/FanLei/Desktop/XYQRegexPattern/XYQRegexPatternDemo/XYQRegexPattern.xcodeproj">
    </FileRef>
 </Workspace>

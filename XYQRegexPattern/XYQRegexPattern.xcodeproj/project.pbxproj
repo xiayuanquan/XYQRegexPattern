@@ -15,7 +15,7 @@
 		E419953F1DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E419953E1DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests.m */; };
 		E41995501DFE8AEE00EF32E4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E419954D1DFE8AEE00EF32E4 /* AppDelegate.m */; };
 		E41995511DFE8AEE00EF32E4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E419954F1DFE8AEE00EF32E4 /* ViewController.m */; };
-		E41995551DFE8B1200EF32E4 /* XYQRegexPatternHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = E41995541DFE8B1200EF32E4 /* XYQRegexPatternHelper.m */; };
+		E41995591DFE963A00EF32E4 /* XYQRegexPatternHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = E41995581DFE963A00EF32E4 /* XYQRegexPatternHelper.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,24 +36,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E41995161DFE8ACF00EF32E4 /* XYQRegexPatternDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XYQRegexPatternDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E41995161DFE8ACF00EF32E4 /* XYQRegexPattern.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XYQRegexPattern.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E419951A1DFE8AD000EF32E4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E41995231DFE8AD000EF32E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E41995251DFE8AD000EF32E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E41995281DFE8AD000EF32E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E419952A1DFE8AD000EF32E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E419952F1DFE8AD000EF32E4 /* XYQRegexPatternDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XYQRegexPatternDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E419952F1DFE8AD000EF32E4 /* XYQRegexPattern.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XYQRegexPattern.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E41995331DFE8AD000EF32E4 /* XYQRegexPatternDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYQRegexPatternDemoTests.m; sourceTree = "<group>"; };
 		E41995351DFE8AD000EF32E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E419953A1DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XYQRegexPatternDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E419953A1DFE8AD000EF32E4 /* XYQRegexPattern.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XYQRegexPattern.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E419953E1DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYQRegexPatternDemoUITests.m; sourceTree = "<group>"; };
 		E41995401DFE8AD000EF32E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E419954C1DFE8AEE00EF32E4 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E419954D1DFE8AEE00EF32E4 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		E419954E1DFE8AEE00EF32E4 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E419954F1DFE8AEE00EF32E4 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		E41995531DFE8B1200EF32E4 /* XYQRegexPatternHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYQRegexPatternHelper.h; sourceTree = "<group>"; };
-		E41995541DFE8B1200EF32E4 /* XYQRegexPatternHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYQRegexPatternHelper.m; sourceTree = "<group>"; };
+		E41995571DFE963A00EF32E4 /* XYQRegexPatternHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYQRegexPatternHelper.h; sourceTree = "<group>"; };
+		E41995581DFE963A00EF32E4 /* XYQRegexPatternHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYQRegexPatternHelper.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +84,7 @@
 		E419950D1DFE8ACF00EF32E4 = {
 			isa = PBXGroup;
 			children = (
-				E41995181DFE8AD000EF32E4 /* XYQRegexPatternDemo */,
+				E41995181DFE8AD000EF32E4 /* XYQRegexPattern */,
 				E41995321DFE8AD000EF32E4 /* XYQRegexPatternDemoTests */,
 				E419953D1DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests */,
 				E41995171DFE8ACF00EF32E4 /* Products */,
@@ -94,17 +94,17 @@
 		E41995171DFE8ACF00EF32E4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E41995161DFE8ACF00EF32E4 /* XYQRegexPatternDemo.app */,
-				E419952F1DFE8AD000EF32E4 /* XYQRegexPatternDemoTests.xctest */,
-				E419953A1DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests.xctest */,
+				E41995161DFE8ACF00EF32E4 /* XYQRegexPattern.app */,
+				E419952F1DFE8AD000EF32E4 /* XYQRegexPattern.xctest */,
+				E419953A1DFE8AD000EF32E4 /* XYQRegexPattern.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E41995181DFE8AD000EF32E4 /* XYQRegexPatternDemo */ = {
+		E41995181DFE8AD000EF32E4 /* XYQRegexPattern */ = {
 			isa = PBXGroup;
 			children = (
-				E41995521DFE8B1200EF32E4 /* XYQRegexPattern */,
+				E41995561DFE963A00EF32E4 /* XYQRegexPattern */,
 				E419954C1DFE8AEE00EF32E4 /* AppDelegate.h */,
 				E419954D1DFE8AEE00EF32E4 /* AppDelegate.m */,
 				E419954E1DFE8AEE00EF32E4 /* ViewController.h */,
@@ -115,6 +115,7 @@
 				E419952A1DFE8AD000EF32E4 /* Info.plist */,
 				E41995191DFE8AD000EF32E4 /* Supporting Files */,
 			);
+			name = XYQRegexPattern;
 			path = XYQRegexPatternDemo;
 			sourceTree = "<group>";
 		};
@@ -144,11 +145,11 @@
 			path = XYQRegexPatternDemoUITests;
 			sourceTree = "<group>";
 		};
-		E41995521DFE8B1200EF32E4 /* XYQRegexPattern */ = {
+		E41995561DFE963A00EF32E4 /* XYQRegexPattern */ = {
 			isa = PBXGroup;
 			children = (
-				E41995531DFE8B1200EF32E4 /* XYQRegexPatternHelper.h */,
-				E41995541DFE8B1200EF32E4 /* XYQRegexPatternHelper.m */,
+				E41995571DFE963A00EF32E4 /* XYQRegexPatternHelper.h */,
+				E41995581DFE963A00EF32E4 /* XYQRegexPatternHelper.m */,
 			);
 			path = XYQRegexPattern;
 			sourceTree = "<group>";
@@ -156,9 +157,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E41995151DFE8ACF00EF32E4 /* XYQRegexPatternDemo */ = {
+		E41995151DFE8ACF00EF32E4 /* XYQRegexPattern */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E41995431DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternDemo" */;
+			buildConfigurationList = E41995431DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPattern" */;
 			buildPhases = (
 				E41995121DFE8ACF00EF32E4 /* Sources */,
 				E41995131DFE8ACF00EF32E4 /* Frameworks */,
@@ -168,14 +169,14 @@
 			);
 			dependencies = (
 			);
-			name = XYQRegexPatternDemo;
+			name = XYQRegexPattern;
 			productName = XYQRegexPatternDemo;
-			productReference = E41995161DFE8ACF00EF32E4 /* XYQRegexPatternDemo.app */;
+			productReference = E41995161DFE8ACF00EF32E4 /* XYQRegexPattern.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E419952E1DFE8AD000EF32E4 /* XYQRegexPatternDemoTests */ = {
+		E419952E1DFE8AD000EF32E4 /* XYQRegexPatternTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E41995461DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternDemoTests" */;
+			buildConfigurationList = E41995461DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternTests" */;
 			buildPhases = (
 				E419952B1DFE8AD000EF32E4 /* Sources */,
 				E419952C1DFE8AD000EF32E4 /* Frameworks */,
@@ -186,14 +187,14 @@
 			dependencies = (
 				E41995311DFE8AD000EF32E4 /* PBXTargetDependency */,
 			);
-			name = XYQRegexPatternDemoTests;
+			name = XYQRegexPatternTests;
 			productName = XYQRegexPatternDemoTests;
-			productReference = E419952F1DFE8AD000EF32E4 /* XYQRegexPatternDemoTests.xctest */;
+			productReference = E419952F1DFE8AD000EF32E4 /* XYQRegexPattern.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E41995391DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests */ = {
+		E41995391DFE8AD000EF32E4 /* XYQRegexPatternUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E41995491DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternDemoUITests" */;
+			buildConfigurationList = E41995491DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternUITests" */;
 			buildPhases = (
 				E41995361DFE8AD000EF32E4 /* Sources */,
 				E41995371DFE8AD000EF32E4 /* Frameworks */,
@@ -204,9 +205,9 @@
 			dependencies = (
 				E419953C1DFE8AD000EF32E4 /* PBXTargetDependency */,
 			);
-			name = XYQRegexPatternDemoUITests;
+			name = XYQRegexPatternUITests;
 			productName = XYQRegexPatternDemoUITests;
-			productReference = E419953A1DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests.xctest */;
+			productReference = E419953A1DFE8AD000EF32E4 /* XYQRegexPattern.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -234,7 +235,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E41995111DFE8ACF00EF32E4 /* Build configuration list for PBXProject "XYQRegexPatternDemo" */;
+			buildConfigurationList = E41995111DFE8ACF00EF32E4 /* Build configuration list for PBXProject "XYQRegexPattern" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -247,9 +248,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E41995151DFE8ACF00EF32E4 /* XYQRegexPatternDemo */,
-				E419952E1DFE8AD000EF32E4 /* XYQRegexPatternDemoTests */,
-				E41995391DFE8AD000EF32E4 /* XYQRegexPatternDemoUITests */,
+				E41995151DFE8ACF00EF32E4 /* XYQRegexPattern */,
+				E419952E1DFE8AD000EF32E4 /* XYQRegexPatternTests */,
+				E41995391DFE8AD000EF32E4 /* XYQRegexPatternUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -287,7 +288,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E41995511DFE8AEE00EF32E4 /* ViewController.m in Sources */,
-				E41995551DFE8B1200EF32E4 /* XYQRegexPatternHelper.m in Sources */,
+				E41995591DFE963A00EF32E4 /* XYQRegexPatternHelper.m in Sources */,
 				E41995501DFE8AEE00EF32E4 /* AppDelegate.m in Sources */,
 				E419951B1DFE8AD000EF32E4 /* main.m in Sources */,
 			);
@@ -314,12 +315,12 @@
 /* Begin PBXTargetDependency section */
 		E41995311DFE8AD000EF32E4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E41995151DFE8ACF00EF32E4 /* XYQRegexPatternDemo */;
+			target = E41995151DFE8ACF00EF32E4 /* XYQRegexPattern */;
 			targetProxy = E41995301DFE8AD000EF32E4 /* PBXContainerItemProxy */;
 		};
 		E419953C1DFE8AD000EF32E4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E41995151DFE8ACF00EF32E4 /* XYQRegexPatternDemo */;
+			target = E41995151DFE8ACF00EF32E4 /* XYQRegexPattern */;
 			targetProxy = E419953B1DFE8AD000EF32E4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -433,7 +434,7 @@
 				INFOPLIST_FILE = XYQRegexPatternDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.biaojiepay.XYQRegexPatternDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = XYQRegexPattern;
 			};
 			name = Debug;
 		};
@@ -444,7 +445,7 @@
 				INFOPLIST_FILE = XYQRegexPatternDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.biaojiepay.XYQRegexPatternDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = XYQRegexPattern;
 			};
 			name = Release;
 		};
@@ -455,8 +456,8 @@
 				INFOPLIST_FILE = XYQRegexPatternDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.biaojiepay.XYQRegexPatternDemoTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/XYQRegexPatternDemo.app/XYQRegexPatternDemo";
+				PRODUCT_NAME = XYQRegexPattern;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/XYQRegexPattern.app/XYQRegexPattern";
 			};
 			name = Debug;
 		};
@@ -467,8 +468,8 @@
 				INFOPLIST_FILE = XYQRegexPatternDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.biaojiepay.XYQRegexPatternDemoTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/XYQRegexPatternDemo.app/XYQRegexPatternDemo";
+				PRODUCT_NAME = XYQRegexPattern;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/XYQRegexPattern.app/XYQRegexPattern";
 			};
 			name = Release;
 		};
@@ -478,7 +479,7 @@
 				INFOPLIST_FILE = XYQRegexPatternDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.biaojiepay.XYQRegexPatternDemoUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = XYQRegexPattern;
 				TEST_TARGET_NAME = XYQRegexPatternDemo;
 			};
 			name = Debug;
@@ -489,7 +490,7 @@
 				INFOPLIST_FILE = XYQRegexPatternDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.biaojiepay.XYQRegexPatternDemoUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = XYQRegexPattern;
 				TEST_TARGET_NAME = XYQRegexPatternDemo;
 			};
 			name = Release;
@@ -497,7 +498,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E41995111DFE8ACF00EF32E4 /* Build configuration list for PBXProject "XYQRegexPatternDemo" */ = {
+		E41995111DFE8ACF00EF32E4 /* Build configuration list for PBXProject "XYQRegexPattern" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E41995411DFE8AD000EF32E4 /* Debug */,
@@ -506,29 +507,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E41995431DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternDemo" */ = {
+		E41995431DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPattern" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E41995441DFE8AD000EF32E4 /* Debug */,
 				E41995451DFE8AD000EF32E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		E41995461DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternDemoTests" */ = {
+		E41995461DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E41995471DFE8AD000EF32E4 /* Debug */,
 				E41995481DFE8AD000EF32E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		E41995491DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternDemoUITests" */ = {
+		E41995491DFE8AD000EF32E4 /* Build configuration list for PBXNativeTarget "XYQRegexPatternUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E419954A1DFE8AD000EF32E4 /* Debug */,
 				E419954B1DFE8AD000EF32E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
