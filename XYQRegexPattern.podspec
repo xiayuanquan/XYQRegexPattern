@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "XYQRegexPattern"
-  s.version      = "1.0.0"
+  s.version      = "2.0.0"
   s.summary      = "A Library for iOS to use for Regex Pattern."
   s.homepage     = "https://github.com/xiayuanquan/XYQRegexPattern"
   s.license      = "MIT"
