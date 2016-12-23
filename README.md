@@ -7,6 +7,8 @@
 ### CocoaPods支持
 
      pod 'XYQRegexPattern', '~> 2.0.0'
+     
+![image](https://github.com/xiayuanquan/XYQRegexPattern/blob/master/demo.png) 
  
 #### 1、类方法，演示如下： 
     
